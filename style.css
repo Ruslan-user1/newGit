@@ -1,3 +1,7 @@
 body {
-	background: rgb(104, 221, 149);
+  background: rgb(104, 221, 149);
+  font-family: "Comic Neue", cursive;
+}
+h1 {
+	text-align: center;
 }
